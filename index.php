@@ -1,7 +1,6 @@
 <?php
 session_start();
 include("database.php");
-include("login_register.php");
 
 ?>
 
